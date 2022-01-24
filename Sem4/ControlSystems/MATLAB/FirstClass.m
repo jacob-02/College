@@ -1,2 +1,10 @@
-% Learning to use the various available commands in the MATLAB command
-% window
+ %PES1UG20EC083
+P1 = [1 2 1];
+P2 = [0 1 1];
+P = conv(P1, P2);
+disp(P)
+
+r = roots(P);
+P3 = poly(r);
+disp(polyval(P3, 2));
+disp(polyder(P3));
