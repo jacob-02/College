@@ -1,0 +1,5 @@
+Assume all the variables are in memory. Write an assembly language code for the same. Assume Y is mapped to X2, M to X3, L to X4, D to X5, Z to X6, C to X7, X as X8 and store X in next consecutive location. Perform all the operations as word. 
+
+Calculate the value of 1234-(567+89) without using the sub instruction. 
+
+(Variables are stored in memory with directive)
