@@ -1,4 +1,3 @@
-from operator import mod
 from socket import *
 
 serv_addr = "192.168.35.145"
